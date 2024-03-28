@@ -96,6 +96,10 @@ hr{
     margin-block: 32px;
 }
 
+.Modo li::marker {
+    color: #854632;
+    font-weight: 700;
+}
 
 
 
